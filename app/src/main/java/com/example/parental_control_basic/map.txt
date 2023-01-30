@@ -1,0 +1,7 @@
+1.
+check all running apps in sys. & detect the target app
+
+2.
+destroy the target app & put a lock screen activity
+
+3.
